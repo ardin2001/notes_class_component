@@ -1,6 +1,4 @@
-# Create Notes App With Class Component
-
-# Getting Started with Create React App
+# First Project React JS With Class Component
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
