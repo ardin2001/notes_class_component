@@ -1,0 +1,34 @@
+.btn{
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 5px;
+}
+.btn-Arsipkan{
+    background-color: #5898ff;
+}
+.btn-Delete{
+    background-color: rgb(255, 22, 22);
+}
+.btn-Arsipkan:hover{
+    background-color: #005aeb;
+}
+.btn-Arsipkan:active{
+    background-color: #5898ff;
+}
+.btn-Delete:hover{
+    background-color: rgb(221, 0, 0);
+}
+.btn-Delete:active{
+    background-color: rgb(255, 22, 22);
+}
+.btn-Pindahkan{
+    background-color: #ffbb33;
+}
+.btn-Pindahkan:hover{
+    background-color: #df9604;
+}
+.btn-Pindahkan:active{
+    background-color: #ffbb33;
+}
